@@ -2,7 +2,7 @@
 
     $filename = "welcome.txt";
     $myfile = fopen($filename, "w") or die("Unable to open file!");
-    $txt = "2220100303\n";
+    $txt = "2220100291\n";
     fwrite($myfile, $txt);
     $txt = "Manan Batra\n";
     fwrite($myfile, $txt);
