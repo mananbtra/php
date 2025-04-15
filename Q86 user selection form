@@ -33,6 +33,6 @@ if (isset($_POST['submit'])) {
     }
 }
 ?>
-<p>code by Manan114!</p>
+<p>Code By Manan Batra 114!</p>
 </body>
 </html>
